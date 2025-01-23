@@ -1,0 +1,10 @@
+﻿CATEGORY,CATEGORY_METHOD,CODE,FUND_NAME,ALLOCATION
+Aasset Class,Global Bonds,IE00BPT2BQ43,Vanguard Global Bond Index Fund GBP Hedged Acc Inst,60
+Aasset Class,Global Bonds,IE00BPT2BZ34,Vanguard Global Short-Term Bond Index Fund GBP Hedged Acc Institutional Plus,40
+Aasset Class,UK Bonds,GB00BPN5P451,Vanguard U.K. Inflation-Linked Gilt Index Fund INSTITUTIONAL PLUS GBP ACC,20
+Aasset Class,UK Bonds,IE00BPT2BS66,Vanguard U.K. Government Bond Index Fund GBP Acc Inst Plus,20
+Aasset Class,UK Bonds,IE00BPT2BV95,Vanguard U.K. Investment Grade Bond Index Fund GBP Acc Inst,60
+Aasset Class,Global Equities,GB00BG0QP604,Legal & General International Index Trust C Acc,100
+Aasset Class,UK Equities,GB00B7C44X99,iShares - UK Equity Index (UK) D Acc,100
+Aasset Class,Emerging Markets,GB00BG0QP489,Legal & General Global Emerging Markets Index Fund C Class Accumulation,100
+Aasset Class,Cash,GBP,Cash,100
